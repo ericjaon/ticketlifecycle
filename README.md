@@ -18,24 +18,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- New
+- Open
+- Pending 
+- On-Hold 
+- Solved 
+- Closed 
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zBwINES.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ticket examples:
   
-Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+  New: An agent has not taken the ticket yet. Once the agent updates the ticket from New to Open, it cannot be moved back to New.
   
-Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+ Open: The ticket is assigned to an agent who is working to solve it.
   
-Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow].
+Pending: The agent needs additional information from the requester or customer to continue solving the ticket. 
 </p>
 <br />
 
